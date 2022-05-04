@@ -16,6 +16,7 @@ public class Git_test {
      */
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("Some other line");
     }
     
 }
